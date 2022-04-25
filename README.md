@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Examen Apium](https://github.com/sashavining/apis-verborum)
 
-- 🌱 I’m currently learning **OOP Javascript**
+- 🌱 I’m currently learning **Test-Driven Development**
 
 - 👯 I’m looking to collaborate on **language learning aids**
 
-- 👨‍💻 All of my projects are available at [sashavining.com](sashavining.com)
+- 👨‍💻 All of my projects are available at [https://www.sashavining.com](https://www.sashavining.com)
 
 - 💬 Ask me about **language learning, board games, Wordpress development**
 
