@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Examen Apium](https://github.com/sashavining/apis-verborum)
 
-- 🌱 I’m currently learning **Test-Driven Development**
+- 🌱 I’m currently learning **CRUD apps with MongoDB, Express, and node.js**
 
 - 👯 I’m looking to collaborate on **language learning aids**
 
