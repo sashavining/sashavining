@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasha Vining (she, her, hers)</h1>
 <h2 align="center">A collaborative, passionate full-stack dev @ 100Devs</h2>
 
-- 🔭 I’m currently working on [Examen Apium](https://github.com/sashavining/apis-verborum)
+- 🔭 I’m currently working on [Foliary](https://foliary.herokuapp.com)
 
 - 🌱 I’m currently learning **CRUD apps with MongoDB, Express, and node.js**
 
