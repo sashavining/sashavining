@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sasha Vining (she, her, hers)</h1>
 <h2 align="center">A collaborative, passionate full-stack dev @ 100Devs</h2>
 
-- 🔭 I’m currently working on [Foliary](https://foliary.herokuapp.com)
+- 🔭 I’m currently working on [Certamen Quizzer](https://github.com/sashavining/certamen-react-app)
 
-- 🌱 I’m currently learning **CRUD apps with MongoDB, Express, and node.js**
+- 🌱 I’m currently learning **Apollo GraphQL **
 
 - 👯 I’m looking to collaborate on **language learning aids**
 
 - 👨‍💻 All of my projects are available at [https://www.sashavining.com](https://www.sashavining.com)
 
-- 💬 Ask me about **language learning, board games, Wordpress development**
+- 💬 Ask me about **language learning, board games, horticulture**
 
 - ⚡ Fun fact **I was once on 'Who Wants To Be a Millionaire'?**
 
