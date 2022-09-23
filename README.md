@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Certamen Quizzer](https://github.com/sashavining/certamen-react-app)
 
-- 🌱 I’m currently learning **Apollo GraphQL **
+- 🌱 I’m currently learning **Apollo GraphQL** and refining my React skills
 
 - 👯 I’m looking to collaborate on **language learning aids**
 
