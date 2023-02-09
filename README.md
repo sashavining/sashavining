@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sasha Vining (she, her, hers)</h1>
 
+- 🐰 Currently a frontend/UI developer at Jebbit
+
 - 👨‍💻 All of my projects are available at [https://www.sashavining.com](https://www.sashavining.com)
+
+- 🏺 Have taught Latin, ancient Greek, Russian, and English to 6th graders through adults 
 
 - 💬 Ask me about **language learning, board games, horticulture**
 
