@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasha Vining (she, her, hers)</h1>
 
-- 🔭 I’m currently working on [Certamen Quizzer](https://github.com/sashavining/certamen-react-app)
-
-- 👯 I’m looking to collaborate on **language learning aids**
-
 - 👨‍💻 All of my projects are available at [https://www.sashavining.com](https://www.sashavining.com)
 
 - 💬 Ask me about **language learning, board games, horticulture**
