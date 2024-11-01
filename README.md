@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasha Vining (she, her, hers)</h1>
 
-- 🐰 Currently a frontend/UI developer at <a href="https://www.jebbit.com">Jebbit</a>
+- 🐰 Currently a fullstack developer at <a href="https://www.amazeinsights.com">Amaze Insights</a>
 
 - 👨‍💻 All of my projects are available at [https://www.sashavining.com](https://www.sashavining.com)
 
